@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: "This resource contains the information related to Problem Set 7.\r\n"
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-438-algorithms-for-inference-fall-2014/7e9639bd2e296f4bdbf9c68312235110_MIT6_438F14_ps7_sol.pdf
+file: /media/courses/6-438-algorithms-for-inference-fall-2014/7e9639bd2e296f4bdbf9c68312235110_MIT6_438F14_ps7_sol.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: Problem Set 7 Solutions on Algorithms for Inference
 uid: 7e9639bd-2e29-6f4b-dbf9-c68312235110

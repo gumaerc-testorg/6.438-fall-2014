@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains the information regarding Recitation Notes on
   Algorithms for Inference, Recitation 2 Solution.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-438-algorithms-for-inference-fall-2014/c9b7248cea68209f5bdbe6ae57a287c2_MIT6_438F14_rec2_sol.pdf
+file: /media/courses/6-438-algorithms-for-inference-fall-2014/c9b7248cea68209f5bdbe6ae57a287c2_MIT6_438F14_rec2_sol.pdf
 file_type: application/pdf
+learning_resource_types:
+- Recitations
+ocw_type: OCWFile
+parent_title: Recitations
+parent_type: CourseSection
 resourcetype: Document
 title: Recitation Notes on Algorithms for Inference, Recitation 2 Solution
 uid: c9b7248c-ea68-209f-5bdb-e6ae57a287c2

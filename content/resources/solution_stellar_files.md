@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: e4e26ff3-b747-5512-2af9-c34cec428488
 resourcetype: Other
 title: Solution_Stellar_Files.zip
 uid: 2ca56a2b-81b6-c1da-9902-f835c66bd201

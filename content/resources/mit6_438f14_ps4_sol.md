@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: e4e26ff3-b747-5512-2af9-c34cec428488
 resourcetype: Document
 title: Problem Set 4 Solutions on Algorithms for Inferenc
 uid: 90177bcb-88b9-d63f-3b4f-110d60dad11c

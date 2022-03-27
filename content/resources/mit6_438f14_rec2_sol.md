@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 95d99fa6-b4c9-e0e4-c0c6-45fc32e061f7
 resourcetype: Document
 title: Recitation Notes on Algorithms for Inference, Recitation 2 Solution
 uid: c9b7248c-ea68-209f-5bdb-e6ae57a287c2

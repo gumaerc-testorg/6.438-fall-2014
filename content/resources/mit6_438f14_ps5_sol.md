@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: e4e26ff3-b747-5512-2af9-c34cec428488
 resourcetype: Document
 title: Problem Set 5 Solutions on Algorithms for Inference
 uid: 084133fa-b407-ba0c-a9a5-8406f4afec29

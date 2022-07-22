@@ -5,6 +5,7 @@ file: /courses/6-438-algorithms-for-inference-fall-2014/f17e94f7b0803e3581880b5c
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Problem Set 9 Solutions on Algorithms for Inference
 uid: f17e94f7-b080-3e35-8188-0b5c77f72e2f
 ---
 This resource contains the information related to Problem Set 9 Solutions.
-

@@ -6,6 +6,7 @@ file: /courses/6-438-algorithms-for-inference-fall-2014/ac71e5e0f94463d4932c9ec5
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Recitation Notes on Algorithms for Inference
 uid: ac71e5e0-f944-63d4-932c-9ec590405ea0
 ---
 This resource contains the information regarding Recitation Notes on Algorithms for Inference.
-

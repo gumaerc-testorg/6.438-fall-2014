@@ -5,6 +5,7 @@ file: /courses/6-438-algorithms-for-inference-fall-2014/7ddf926df8197053664ef189
 file_type: application/zip
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Question_Stellar_Files.zip
 uid: 7ddf926d-f819-7053-664e-f189694e6d3c
 ---
 This resource contains the information related Part 2 Questions.
-

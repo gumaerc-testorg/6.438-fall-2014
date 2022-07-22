@@ -5,6 +5,7 @@ file: /courses/6-438-algorithms-for-inference-fall-2014/90177bcb88b9d63f3b4f110d
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Problem Set 4 Solutions on Algorithms for Inferenc
 uid: 90177bcb-88b9-d63f-3b4f-110d60dad11c
 ---
 This resource contains the information related to Problem Set 4 Solutions.
-

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information related Part 2 Questions.
-file: /courses/6-438-algorithms-for-inference-fall-2014/7ddf926df8197053664ef189694e6d3c_Question_Stellar_Files.zip
+file: /ol-ocw-studio-app/courses/6-438-algorithms-for-inference-fall-2014/7ddf926df8197053664ef189694e6d3c_Question_Stellar_Files.zip
 file_size: 13294
 file_type: application/zip
 learning_resource_types:

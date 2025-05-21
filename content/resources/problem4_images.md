@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information related to Problem 3 Solution
   Code.
-file: /ol-ocw-studio-app/courses/6-438-algorithms-for-inference-fall-2014/b356362933dce9f5ca43ce3f4b02b887_problem4_images.rar
+file: /courses/6-438-algorithms-for-inference-fall-2014/b356362933dce9f5ca43ce3f4b02b887_problem4_images.rar
 file_size: 60852
 file_type: application/rar
 learning_resource_types:
